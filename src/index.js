@@ -1,3 +1,3 @@
-const myVar = 11;
+import { result } from "./option";
 
-console.log("myVar =>", myVar);
+console.log("result =>", result());
